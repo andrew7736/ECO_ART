@@ -1,9 +1,5 @@
 /* screen - landing-home */
 
-body{
-  overflow-x:hidden;
-}
-
 .landing-home {
   background-color: var(--black);
   height: 100vh;
@@ -845,7 +841,7 @@ body{
   background-color: var(--black);
   height: 100vh;
   margin: 0px;
-  min-height: 3236px;
+  min-height: 3872px;
   min-width: 375px;
   overflow: hidden;
   overflow-x: hidden;
@@ -855,10 +851,10 @@ body{
 
 .landing-home-mobile .hero-zWPIrh {
   background-color: transparent;
-  bottom: calc(100.00% - 812px);
   height: 812px;
   left: -356px;
   position: absolute;
+  top: 0px;
   width: calc(100.00% + 700px);
 }
 
@@ -961,7 +957,7 @@ body{
 
 .landing-home-mobile .header-zWPIrh {
   background-color: transparent;
-  height: 0.90%;
+  height: 0.75%;
   left: 4.27%;
   position: absolute;
   top: 1.21%;
@@ -991,17 +987,17 @@ body{
   height: 1px;
   left: 614px;
   position: absolute;
-  top: -10px;
+  top: -12px;
   width: 12px;
 }
 
 .landing-home-mobile .video-zWPIrh {
   background-color: transparent;
-  bottom: calc(32.54% - 64px);
-  height: 197px;
+  bottom: calc(29.85% - 71px);
+  height: 237px;
   left: 16px;
   position: absolute;
-  width: calc(100.00% - 26px);
+  width: calc(100.00% - 32px);
 }
 
 .landing-home-mobile .video-assetpanelstatedefault-8gU50F {
@@ -1010,7 +1006,7 @@ body{
   left: 0px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 6px);
+  width: 100%;
 }
 
 .landing-home-mobile .placement-area-assetpanelstatedefault-ORtXM7 {
@@ -1034,31 +1030,31 @@ body{
   letter-spacing: -0.18px;
   line-height: 14px;
   position: absolute;
-  right: 39px;
+  right: calc(9.77% - 13px);
   text-align: center;
-  top: 9px;
+  top: calc(12.97% - 3px);
   white-space: nowrap;
   width: 128px;
 }
 
 .landing-home-mobile .h6-8gU50F {
   background-color: transparent;
-  height: 47px;
-  left: 86px;
+  height: 99px;
   letter-spacing: 0.00px;
   line-height: 21px;
   position: absolute;
+  right: calc(1.13% - 2px);
   text-align: center;
-  top: calc(19.00% - 9px);
-  width: calc(100.00% - 84px);
+  top: calc(35.15% - 35px);
+  width: 166px;
 }
 
 .landing-home-mobile .featured-content-zWPIrh {
   background-color: transparent;
-  height: 1162px;
+  height: 1549px;
   left: 0px;
   position: absolute;
-  top: calc(40.89% - 475px);
+  top: calc(39.65% - 614px);
   width: 100%;
 }
 
@@ -1088,35 +1084,35 @@ body{
 
 .landing-home-mobile .image-block-dyf1g5 {
   background-color: transparent;
-  height: 351px;
+  height: 470px;
   left: 28px;
   position: absolute;
-  top: 118px;
+  top: 123px;
   width: calc(100.00% - 58px);
 }
 
 .landing-home-mobile .h6-5VVPzy {
   background-color: transparent;
-  bottom: calc(35.41% - 8px);
+  bottom: calc(22.66% - 5px);
   color: var(--old-lace);
   font-family: var(--font-family-poppins);
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
   height: 22px;
-  left: 14px;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 19px;
   position: absolute;
   text-align: center;
   white-space: nowrap;
-  width: 228px;
+  width: calc(100.00% - 91px);
 }
 
 .landing-home-mobile .h6-tagp-5VVPzy {
   background-color: transparent;
   bottom: 2px;
-  height: 102px;
+  height: 80px;
   left: 0px;
   letter-spacing: -0.16px;
   line-height: 25px;
@@ -1127,7 +1123,7 @@ body{
 
 .landing-home-mobile .image-assetsmallsize-defaultstatedefault-5VVPzy {
   background-color: transparent;
-  height: 196px;
+  height: calc(100.00% - 150px);
   left: 1px;
   position: absolute;
   top: 0px;
@@ -1146,8 +1142,8 @@ body{
 
 .landing-home-mobile .image-block-6qeUHx {
   background-color: transparent;
-  bottom: calc(40.07% - 131px);
-  height: 326px;
+  bottom: calc(45.42% - 178px);
+  height: 393px;
   left: 28px;
   position: absolute;
   width: calc(100.00% - 58px);
@@ -1155,17 +1151,17 @@ body{
 
 .landing-home-mobile .h6-YpFYuD {
   background-color: transparent;
-  bottom: calc(29.87% - 7px);
+  bottom: calc(24.46% - 6px);
   color: var(--old-lace);
   font-family: var(--font-family-poppins);
   font-size: 15px;
   font-style: normal;
   font-weight: 700;
   height: 23px;
-  left: 22px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
+  right: calc(48.62% - 102px);
   text-align: center;
   white-space: nowrap;
   width: 210px;
@@ -1185,7 +1181,7 @@ body{
 
 .landing-home-mobile .image-assetsmallsize-defaultstatedefault-YpFYuD {
   background-color: transparent;
-  height: 196px;
+  height: 254px;
   left: 0px;
   position: absolute;
   top: 0px;
@@ -1205,7 +1201,7 @@ body{
 .landing-home-mobile .image-block-jkofkT {
   background-color: transparent;
   bottom: 0px;
-  height: 303px;
+  height: 470px;
   left: 28px;
   position: absolute;
   width: calc(100.00% - 58px);
@@ -1213,7 +1209,7 @@ body{
 
 .landing-home-mobile .h6-GuFMa9 {
   background-color: transparent;
-  bottom: calc(23.38% - 6px);
+  bottom: calc(25.90% - 6px);
   height: 25px;
   letter-spacing: 0.00px;
   line-height: 21px;
@@ -1227,7 +1223,7 @@ body{
 .landing-home-mobile .h6-tagp-GuFMa9 {
   background-color: transparent;
   bottom: 2px;
-  height: 54px;
+  height: 83px;
   left: 0px;
   letter-spacing: -0.16px;
   line-height: 25px;
@@ -1238,7 +1234,7 @@ body{
 
 .landing-home-mobile .image-assetsmallsize-defaultstatedefault-GuFMa9 {
   background-color: transparent;
-  height: 196px;
+  height: 304px;
   left: 1px;
   position: absolute;
   top: 0px;
@@ -1257,7 +1253,7 @@ body{
 
 .landing-home-mobile .qr-dono-zWPIrh {
   background-color: transparent;
-  bottom: 113px;
+  bottom: 129px;
   height: 325px;
   left: 16px;
   position: absolute;
@@ -1312,10 +1308,10 @@ body{
   font-style: normal;
   font-weight: 700;
   height: 31px;
-  left: 35px;
   letter-spacing: -0.23px;
   line-height: 32px;
   position: absolute;
+  right: calc(49.61% - 107px);
   text-align: center;
   top: -2px;
   white-space: nowrap;
@@ -1324,7 +1320,7 @@ body{
 
 .landing-home-mobile .featured-solutions-zWPIrh {
   background-color: transparent;
-  bottom: 478px;
+  bottom: 534px;
   height: 471px;
   left: 16px;
   position: absolute;
@@ -1531,10 +1527,10 @@ body{
   font-style: normal;
   font-weight: 700;
   height: 37px;
-  left: 21px;
   letter-spacing: -0.28px;
   line-height: 32px;
   position: absolute;
+  right: calc(48.57% - 116px);
   text-align: center;
   top: 2px;
   white-space: nowrap;
@@ -1700,9 +1696,9 @@ body{
   background-color: transparent;
   bottom: calc(24.85% - 133px);
   height: 537px;
-  left: 80px;
+  left: calc(50.00% - 304px);
   position: absolute;
-  width: calc(100.00% - 160px);
+  width: 608px;
 }
 
 .landing-home-small .video-assetpanelstatedefault-ASi7eh {
