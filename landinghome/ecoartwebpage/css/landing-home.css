@@ -1,5 +1,9 @@
 /* screen - landing-home */
 
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
 .landing-home {
   background-color: var(--black);
   height: 100vh;
